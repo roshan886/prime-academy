@@ -355,15 +355,14 @@ document.addEventListener('DOMContentLoaded', () => {
             reply: `👨‍🏫 <strong>हमारे अध्यापक गण:</strong><br><br>
 🎓 <strong>संचालक:</strong><br>
 • पिन्टू सर — MA (Eng.), B.Ed, L.L.B.<br>
-• पंकज सर — MA (Eng.), B.Ed, L.L.B.<br><br>
+• पंकज सर — polytechnic , B.tech,L.L.B.<br><br>
 🧑‍🏫 <strong>अध्यापक:</strong><br>
 • सिद्धार्थ पाण्डेय — Biology/Genetics<br>
 • सोनू सर — Chemistry<br>
-• तबरेज खाँ — Mathematics<br>
+• Sittu Sir — Mathematics B.Sc<br>
 • नीरज सर — Physics<br>
 • श्याम सर — Hindi<br>
 • सुनील सर — Social Science<br>
-• रविरंजन सर — Sanskrit/Arts<br><br>
 विस्तार से देखें: <a href="#faculty">अध्यापक गण सेक्शन</a>`
         },
         admission: {
